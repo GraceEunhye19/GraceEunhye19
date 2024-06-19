@@ -1,10 +1,9 @@
-- 👋 Hi, I’m Grace Igbadun
-- 👀 I’m interested in Making apps and technology
-- 🌱 I’m currently learning mobile app development but i am also a computer engineering student
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : my email is my profile
+This is a machine learning model used to classify Glass, based on the proportions of their components, into: 
+1. Building window glass
+2. Vehicle window glass
+3.container glass
+4. Tableware glass
+5. Headlamp glass
+Using the dataset from Kaggle:  https://www.kaggle.com/datasets/uciml/glass
 
-<!---
-GraceEunhye19/GraceEunhye19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
